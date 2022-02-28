@@ -159,7 +159,7 @@ export default {
       form: {
         name: "",
         email: "",
-        phone: 0,
+        phone: "",
         message: "",
       },
     };
